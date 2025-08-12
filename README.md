@@ -1,5 +1,13 @@
 # Icecream_shop_Project
 index.html
-!(https://github.com/ManojManuS/Icecream_shop_Project/blob/450e2f45cd237db6fff0deb03b1fdac6eaa3c1c3/index.html)
-Outputs:
-![image alt](images/About Us)
+[Here the File](https://github.com/ManojManuS/Icecream_shop_Project/blob/097c1a90d8a11fbb98fff1ee2fd29b45d0e3dcfd/index.html)
+#  Outputs:
+
+### Home Page
+![image alt](https://github.com/ManojManuS/Icecream_shop_Project/blob/master/Home%20page.png?raw=true)
+
+### Flavours
+![Image not Found](https://github.com/ManojManuS/Icecream_shop_Project/blob/master/flavers.png?raw=true)
+
+### About Us
+![ALt image](https://github.com/ManojManuS/Icecream_shop_Project/blob/master/About%20Us.png?raw=true)
