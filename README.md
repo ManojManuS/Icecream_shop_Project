@@ -1,5 +1,4 @@
 # Icecream_shop_Project
 index.html
 Outputs:
-![image alt](<img width="1366" height="768" alt="About Us" src="https://github.com/user-attachments/assets/35084c4d-74ea-4424-9850-ae3e2a9d501e" />
-)
+![image alt](https://github.com/ManojManuS/Icecream_shop_Project/blob/450e2f45cd237db6fff0deb03b1fdac6eaa3c1c3/index.html)
